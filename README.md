@@ -1,3 +1,3 @@
 # Mineria_P2Labs
-Laboratorios de minería 
+Laboratorios de minería <br>
 Por: Miguel Castillo
